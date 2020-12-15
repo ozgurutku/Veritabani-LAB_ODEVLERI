@@ -1,0 +1,16 @@
+INSERT INTO Staff VALUES ('S0001', 'George', 'White', 3000.0, 'B0001');
+INSERT INTO Staff VALUES ('S0002', 'George', 'Black',  3000.0, 'B0001');
+INSERT INTO Staff VALUES ('S0003', 'George', 'Purple', 7000.0, 'B0001');
+INSERT INTO Staff VALUES ('S0004', 'George', 'Pink',  4500.0, 'B0003');
+INSERT INTO Staff VALUES ('S0005', 'George', 'Gray',  1800.0, 'B0002');
+INSERT INTO Staff VALUES ('S0006', 'George', 'Green',  2200.0, 'B0004');
+INSERT INTO Staff VALUES ('S0007', 'George', 'Orange', 3300.0, 'B0003');
+INSERT INTO Staff VALUES ('S0008', 'George', 'Yellow',  4000.0, 'B0003');
+INSERT INTO Staff VALUES ('S0009', 'Alice', 'White',  6800.0, 'B0006');
+INSERT INTO Staff VALUES ('S0010', 'Alice', 'Black', 1200.0, 'B0003');
+INSERT INTO Staff VALUES ('S0011', 'Alice', 'Purple', 9800.0, 'B0006');
+INSERT INTO Staff VALUES ('S0012', 'Alice', 'Pink', 3600.0, 'B0001');
+INSERT INTO Staff VALUES ('S0013', 'Alice', 'Gray', 1000.0, 'B0003');
+INSERT INTO Staff VALUES ('S0014', 'Alice', 'Green', 2400.0, 'B0007');
+INSERT INTO Staff VALUES ('S0015', 'Alice', 'Orange', 3300.0, 'B0002');
+INSERT INTO Staff VALUES ('S0016', 'Alice', 'Yellow', 2000.0, 'B0005');

@@ -1,0 +1,76 @@
+INSERT INTO Workspace VALUES ('AIEM001', 'C', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('AIEM002', 'C', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('AIEM003', 'C', 0, 3, 'Lab');
+INSERT INTO Workspace VALUES ('AIEM004', 'C', 1, 1, 'Office');
+INSERT INTO Workspace VALUES ('AIEM005', 'C', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('AIEM006', 'C', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('AIEM007', 'C', 2, 1, 'Lab');
+INSERT INTO Workspace VALUES ('AIEM008', 'C', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('AIEM009', 'C', 2, 3, 'Office');
+INSERT INTO Workspace VALUES ('AIEM010', 'C', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('BM001', 'B', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('BM002', 'B', 0, 2, 'Lab');
+INSERT INTO Workspace VALUES ('BM003', 'B', 0, 3, 'Office');
+INSERT INTO Workspace VALUES ('BM004', 'B', 1, 1, 'Office');
+INSERT INTO Workspace VALUES ('BM005', 'B', 1, 2, 'Office');
+INSERT INTO Workspace VALUES ('BM006', 'B', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('BM007', 'B', 2, 1, 'Lab');
+INSERT INTO Workspace VALUES ('BM008', 'B', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('BM009', 'B', 2, 3, 'Office');
+INSERT INTO Workspace VALUES ('BM010', 'B', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('EEM001', 'E', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('EEM002', 'E', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('EEM003', 'E', 0, 3, 'Office');
+INSERT INTO Workspace VALUES ('EEM004', 'E', 1, 1, 'Lab');
+INSERT INTO Workspace VALUES ('EEM005', 'E', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('EEM006', 'E', 1, 3, 'Office');
+INSERT INTO Workspace VALUES ('EEM007', 'E', 2, 1, 'Office');
+INSERT INTO Workspace VALUES ('EEM008', 'E', 2, 2, 'Office');
+INSERT INTO Workspace VALUES ('EEM009', 'E', 2, 3, 'Office');
+INSERT INTO Workspace VALUES ('EEM010', 'E', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('ETM001', 'E', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('ETM002', 'E', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('ETM003', 'E', 0, 3, 'Lab');
+INSERT INTO Workspace VALUES ('ETM004', 'E', 1, 1, 'Office');
+INSERT INTO Workspace VALUES ('ETM005', 'E', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('ETM006', 'E', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('ETM007', 'E', 2, 1, 'Office');
+INSERT INTO Workspace VALUES ('ETM008', 'E', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('ETM009', 'E', 2, 3, 'Lab');
+INSERT INTO Workspace VALUES ('ETM010', 'E', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('IM001', 'I', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('IM002', 'I', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('IM003', 'I', 0, 3, 'Office');
+INSERT INTO Workspace VALUES ('IM004', 'I', 1, 1, 'Lab');
+INSERT INTO Workspace VALUES ('IM005', 'I', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('IM006', 'I', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('IM007', 'I', 2, 1, 'Lab');
+INSERT INTO Workspace VALUES ('IM008', 'I', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('IM009', 'I', 2, 3, 'Lab');
+INSERT INTO Workspace VALUES ('IM010', 'I', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('INS001', 'C', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('INS002', 'C', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('INS003', 'C', 0, 3, 'Office');
+INSERT INTO Workspace VALUES ('INS004', 'C', 1, 1, 'Office');
+INSERT INTO Workspace VALUES ('INS005', 'C', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('INS006', 'C', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('INS007', 'C', 2, 1, 'Lab');
+INSERT INTO Workspace VALUES ('INS008', 'C', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('INS009', 'C', 2, 3, 'Lab');
+INSERT INTO Workspace VALUES ('INS010', 'C', 3, 1, 'Lab');
+
+INSERT INTO Workspace VALUES ('OTO001', 'B', 0, 1, 'Office');
+INSERT INTO Workspace VALUES ('OTO002', 'B', 0, 2, 'Office');
+INSERT INTO Workspace VALUES ('OTO003', 'B', 0, 3, 'Lab');
+INSERT INTO Workspace VALUES ('OTO004', 'B', 1, 1, 'Office');
+INSERT INTO Workspace VALUES ('OTO005', 'B', 1, 2, 'Lab');
+INSERT INTO Workspace VALUES ('OTO006', 'B', 1, 3, 'Lab');
+INSERT INTO Workspace VALUES ('OTO007', 'B', 2, 1, 'Lab');
+INSERT INTO Workspace VALUES ('OTO008', 'B', 2, 2, 'Lab');
+INSERT INTO Workspace VALUES ('OTO009', 'B', 2, 3, 'Office');
+INSERT INTO Workspace VALUES ('OTO010', 'B', 3, 1, 'Lab');
